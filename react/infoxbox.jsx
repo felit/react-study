@@ -1,0 +1,3 @@
+var Infobox = React.createClass({
+
+});
